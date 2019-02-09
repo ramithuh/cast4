@@ -276,11 +276,12 @@ It's time for Cast4 for the year 2019...
 							<p class="section-paragraph">
 								Await..!<div class="section-cta">
 	<!--							<a class="button button-primary button-shadow" href="#">Get early access</a>-->
+	<div class="fb-page" data-href="https://www.facebook.com/rotaractmora" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/rotaractmora" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/rotaractmora">Rotaract Mora</a></blockquote></div>
+                   
 						</div>
 						
 						</div>
-						<div class="fb-page" data-href="https://www.facebook.com/rotaractmora" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/rotaractmora" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/rotaractmora">Rotaract Mora</a></blockquote></div>
-                    </div>
+						 </div>
                 </div>
             </section>
         </main>
