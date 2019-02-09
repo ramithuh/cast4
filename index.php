@@ -115,8 +115,7 @@ It's time for Cast4 for the year 2019...
 					<br>
 							
 					<a name="foo">
-							<iframe width="508.6253369272237" height="314.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUxC0hXkGqbE47EQHhoepzaXwZCGXb30bkGdFLjsmudTz2SdHGooSFdSEJa8gCe-TuUIb9BCnyznDs/pubchart?oid=2017991724&amp;format=interactive"></iframe>
-					</a>
+					<iframe width="350.2848101265823" height="216.54527559055117" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUxC0hXkGqbE47EQHhoepzaXwZCGXb30bkGdFLjsmudTz2SdHGooSFdSEJa8gCe-TuUIb9BCnyznDs/pubchart?oid=2017991724&amp;format=interactive"></iframe>			</a>
 						</div>
 						
 					
