@@ -274,6 +274,7 @@ It's time for Cast4 for the year 2019...
 
             <section class="cta section">
                 <div class="container-sm">
+
                     <div class="cta-inner section-inner">
                         <div class="cta-content text-center">
                             <h2 class="section-title mt-0">Event Highlights</h2>
@@ -288,9 +289,11 @@ It's time for Cast4 for the year 2019...
 						
 						</div>
 						 </div>
-				</div>
-				<div class="fb-page" data-href="https://www.facebook.com/rotaractmora" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/rotaractmora" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/rotaractmora">Rotaract Mora</a></blockquote></div>
 
+						 <div class="fb-page" data-href="https://www.facebook.com/rotaractmora" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/rotaractmora" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/rotaractmora">Rotaract Mora</a></blockquote></div>
+
+				</div>
+			
             </section>
         </main>
 
