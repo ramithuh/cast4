@@ -114,7 +114,7 @@
 It's time for Cast4 for the year 2019...
 						</p>
                         <div class="hero-cta is-revealing">
-							<a class="button button-primary button-shadow" href="https://view-awesome-table.com/-LYKi-eRYqzC6FNMLLx1/view" target="_blank"> View Updates</a>
+							<a class="button button-primary button-shadow" href="https://entc.ml/cast4-updates" target="_blank"> View Updates</a>
 					<br>
 							
 					<a name="foo">
