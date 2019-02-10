@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="dist/css/style.css">
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
 	<script src="https://awesome-table.com/AwesomeTableInclude.js"></script>
+	<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+
+
 </head>
 <body class="is-boxed">
 
