@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Heebo:400,400i,700|Titillium+Web:600" rel="stylesheet">
     <link rel="stylesheet" href="dist/css/style.css">
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+	<script src="https://awesome-table.com/AwesomeTableInclude.js"></script>
 </head>
 <body class="is-boxed">
 		<div id="fb-root"></div>
@@ -59,7 +60,7 @@
                         <h1 class="m-0">
                             <a href="#">
 									<img src="all.png" width="100" height="100">
-									<title>Florence</title>
+									<title>CAST-4</title>
 								 
                             </a>
                         </h1>
@@ -111,12 +112,15 @@
 It's time for Cast4 for the year 2019...
 						</p>
                         <div class="hero-cta is-revealing">
-							<a class="button button-primary button-shadow" href="#foo"> Scoreboard</a>
+							<a class="button button-primary button-shadow" href="https://view-awesome-table.com/-LYKi-eRYqzC6FNMLLx1/view" target="_blank"> View Updates</a>
 					<br>
 							
 					<a name="foo">
-					<iframe width="350.2848101265823" height="216.54527559055117" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUxC0hXkGqbE47EQHhoepzaXwZCGXb30bkGdFLjsmudTz2SdHGooSFdSEJa8gCe-TuUIb9BCnyznDs/pubchart?oid=2017991724&amp;format=interactive"></iframe>			</a>
+					<iframe width="350.2848101265823" height="216.54527559055117" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUxC0hXkGqbE47EQHhoepzaXwZCGXb30bkGdFLjsmudTz2SdHGooSFdSEJa8gCe-TuUIb9BCnyznDs/pubchart?oid=2017991724&amp;format=interactive"></iframe>		</a>
+						
+					
 						</div>
+						
 						
 					
                         <div class="hero-browser">
@@ -275,8 +279,7 @@ It's time for Cast4 for the year 2019...
 							<p class="section-paragraph">
 								Await..!<div class="section-cta">
 	<!--							<a class="button button-primary button-shadow" href="#">Get early access</a>-->
-	<div class="fb-page" data-href="https://www.facebook.com/rotaractmora" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/rotaractmora" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/rotaractmora">Rotaract Mora</a></blockquote></div>
-                   
+	
 						</div>
 						
 						</div>
@@ -385,5 +388,6 @@ It's time for Cast4 for the year 2019...
     </div>
 
     <script src="dist/js/main.min.js"></script>
+
 </body>
 </html>
