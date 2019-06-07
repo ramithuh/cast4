@@ -132,7 +132,8 @@ It's time for Cast4 for the year 2019...
 						
 					
                         <div class="hero-browser">
-								<!--<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+								<center><img src="IMG_0383.JPG" width="400" height="400"></center>
+							<!--<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
 							    <defs>
 							        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="browser-a">
 							            <stop stop-color="#474452" offset="0%"/>
@@ -158,53 +159,7 @@ It's time for Cast4 for the year 2019...
 							        <path fill="url(#browser-c)" d="M47 32h706v2H47z"/>
 							    </g>
 							</svg>-->
-					
-
-						<h1>Refraction</h1>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2068446873204363%2F2068613283187722%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2068446873204363%2F2068608316521552%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2068446873204363%2F2068610879854629%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2068446873204363%2F2068601993188851%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2068446873204363%2F2068605863188464%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2068446873204363%2F2068621006520283%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<h1>Esports</h1>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2076912569024460%2F2076913609024356%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2076912569024460%2F2076912762357774%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2076912569024460%2F2076913175691066%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2076912569024460%2F2076913492357701%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2076912569024460%2F2076912965691087%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2076912569024460%2F2076913272357723%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<h1>Campfire</h1>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2135810299801353%2F2135813923134324%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2135810299801353%2F2135819739800409%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2135810299801353%2F2135813763134340%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2135810299801353%2F2135812049801178%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2135810299801353%2F2135816929800690%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2135810299801353%2F2135819486467101%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-<center><img src="IMG_0383.JPG" width="400" height="400"></center>
-						
-</div>
+						</div>
 						
 					 </div>
                 </div>
