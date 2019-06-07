@@ -158,9 +158,9 @@ It's time for Cast4 for the year 2019...
 							        <path fill="url(#browser-c)" d="M47 32h706v2H47z"/>
 							    </g>
 							</svg>-->
-					
+							<h1 class="section-title mt-0">Event Highlights</h2>
 
-						<h1>Refraction</h1>
+						<h2>Refraction</h2>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2068446873204363%2F2068613283187722%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
@@ -174,7 +174,7 @@ It's time for Cast4 for the year 2019...
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2068446873204363%2F2068621006520283%2F%3Ftype%3D3&width=500" width="500" height="338" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-<h1>Esports</h1>
+<h2>Esports</h2>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2076912569024460%2F2076913609024356%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
@@ -188,7 +188,7 @@ It's time for Cast4 for the year 2019...
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2076912569024460%2F2076913272357723%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-<h1>Campfire</h1>
+<h2>Campfire</h2>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frotaractmora%2Fphotos%2Fa.2135810299801353%2F2135813923134324%2F%3Ftype%3D3&width=500" width="500" height="337" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
@@ -328,12 +328,12 @@ It's time for Cast4 for the year 2019...
 
                     <div class="cta-inner section-inner">
                         <div class="cta-content text-center">
-                            <h2 class="section-title mt-0">Event Highlights</h2>
+                         <!--   <h2 class="section-title mt-0">Event Highlights</h2>
 						   
 							<p class="section-paragraph">
 								Await..!
 								
-								<div class="section-cta">
+								<div class="section-cta">-->
 	<!--							<a class="button button-primary button-shadow" href="#">Get early access</a>-->
 
 						</div>
@@ -341,8 +341,8 @@ It's time for Cast4 for the year 2019...
 						</div>
 						 </div>
 
-						 <div class="fb-page" data-href="https://www.facebook.com/rotaractmora" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/rotaractmora" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/rotaractmora">Rotaract Mora</a></blockquote></div>
-
+						<!-- <div class="fb-page" data-href="https://www.facebook.com/rotaractmora" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/rotaractmora" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/rotaractmora">Rotaract Mora</a></blockquote></div>
+-->
 				</div>
 			
             </section>
